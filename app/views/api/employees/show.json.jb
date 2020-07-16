@@ -1,0 +1,11 @@
+{
+  id: @employee.id,
+  first_name: @employee.first_name,
+  last_name: @employee.last_name,
+  email: @employee.email,
+  salary: @employee.salary,
+  birthday: @employee.birthday,
+  hire_date: @employee.hire_date,
+  department_id: @employee.department_id,
+  is_manager: @employee.is_manager
+}
